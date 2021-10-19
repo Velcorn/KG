@@ -4,6 +4,7 @@ from rdflib import Graph
 def read_rdf():
     g = Graph()
     g.parse("simpsons.ttl")
+
     return f"The model has {len(g)} triples."
 
 
