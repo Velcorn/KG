@@ -1,3 +1,7 @@
+# Kelvin Bilali, 7054436
+# Enrico Milutzki, 6671784
+# Jan Willruth, 6768273
+
 <Hund> <frisst> <Katze> .
 <Katze> <frisst> <Maus> .
 <Schakal> <frisst> <Hund> .
@@ -9,3 +13,8 @@
 <Maus> <hat_angst> <Katze> .
 <Löwe> <verwandt> <Katze> .
 <Katze> <verwandt> <Löwe> .
+
+# Wer frisst die Maus?
+# Vor wem hat der Elefant Angst?
+# Wer trampelt auf das Krokodil?
+# Wer ist mit dem Löwen verwandt?
